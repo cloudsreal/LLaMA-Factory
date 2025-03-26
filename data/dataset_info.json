@@ -679,5 +679,20 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "sfzy_sharegpt_data": {
+    "file_name": "/kaggle/input/sharegpt-format/sharegpt_data.json",
+    "formatting":"sharegpt",
+      "columns": {
+        "messages": "conversations",
+        "tools":"id"
+      },
+      "tags": {
+        "role_tag": "from",
+        "content_tag": "value",
+        "user_tag": "user",
+        "assistant_tag": "assistant"
+      }
   }
 }
+
