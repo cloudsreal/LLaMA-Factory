@@ -1,5 +1,5 @@
 ### model
-model_name_or_path: Qwen/Qwen2.5-7B-Instruct
+model_name_or_path: Qwen/Qwen1.5-7B-Chat
 quantization_bit: 4
 quantization_method: bitsandbytes
 double_quantization: false
