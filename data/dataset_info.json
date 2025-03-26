@@ -681,7 +681,7 @@
     "folder": "python"
   },
   "sfzy_sharegpt_data": {
-    "file_name": "/kaggle/input/sharegpt-format/sharegpt_data.json",
+    "file_name": "/kaggle/input/sfzy-sharegpt/sharegpt_data.json",
     "formatting":"sharegpt",
       "columns": {
         "messages": "conversations",
