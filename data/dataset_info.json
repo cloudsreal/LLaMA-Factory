@@ -685,7 +685,6 @@
     "formatting":"sharegpt",
       "columns": {
         "messages": "conversations",
-        "tools":"id"
       },
       "tags": {
         "role_tag": "from",
